@@ -10,7 +10,7 @@ Como contador com décadas de experiência, vivenciei a transição da contabili
 
 Abaixo está o diagrama ER que representa a arquitetura atual do banco de dados.
 
-![Diagrama do Banco de Dados](link_para_sua_imagem_do_diagrama.png)
+![Diagrama do Banco de Dados](sistema_contabil.png)
 
 *(Instrução: Você precisará enviar a imagem do seu diagrama para o repositório e depois colocar o link dela aqui)*
 
