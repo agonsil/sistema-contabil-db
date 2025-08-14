@@ -4,7 +4,7 @@ Este repositório contém o projeto de modelagem e implementação de um banco d
 
 ## Sobre o Projeto
 
-Como contador com décadas de experiência, vivenciei a transição da contabilidade manual para a digital. Este projeto é a materialização dessa jornada, traduzindo as regras de negócio complexas do mundo contábil para uma estrutura de dados robusta e escalável. A filosofia por trás do desenvolvimento segue o princípio de que, para ser um bom construtor, é preciso primeiro ser um bom servente, entendendo profundamente os fundamentos antes de utilizar ferramentas avançadas.
+Como contador com décadas de experiência, vivenciei a transição da contabilidade manual para a digital. Este projeto é a materialização dessa jornada, traduzindo as regras de negócio complexas do mundo contábil para uma estrutura de dados robusta e escalável. A filosofia por trás do desenvolvimento segue o princípio de que, para ser um bom construtor, é preciso primeiro ser um bom servente , entendendo profundamente os fundamentos antes de utilizar ferramentas avançadas.
 
 ## Modelo de Dados (Diagrama Entidade-Relacionamento)
 
@@ -12,7 +12,7 @@ Abaixo está o diagrama ER que representa a arquitetura atual do banco de dados.
 
 ![Diagrama do Banco de Dados](sistema_contabil.png)
 
-*(Instrução: Você precisará enviar a imagem do seu diagrama para o repositório e depois colocar o link dela aqui)*
+
 
 ## Tecnologias Utilizadas
 
